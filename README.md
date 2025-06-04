@@ -1,4 +1,4 @@
-# E-Commerce Sales and Customer Behavior Analysis Dashboard using SQL Python 
+# E-Commerce Sales and Customer Behavior Analysis Dashboard using SQL & Python 
 # 🛒 (Ecommerce Data Analysis) 
 
 This project is a comprehensive analysis of an ecommerce dataset using **MySQL** for data exploration and querying, and **Python** for visualization and storytelling.
